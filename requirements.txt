@@ -4,9 +4,9 @@ dj-database-url==0.5.0
 Django==3.2
 django-heroku==0.3.1
 djangorestframework==3.13.1
-psycopg2 @ file:///C:/ci/psycopg2_1594305209841/work
+psycopg2==2.8.5
 pytz==2020.1
-sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+sqlparse==0.4.1
 typing_extensions==4.1.1
 whitenoise==6.0.0
 wincertstore==0.2
